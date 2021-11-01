@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 coverage
 styleguide
+
+.idea
+.DS_Store
