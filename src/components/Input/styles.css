@@ -1,0 +1,23 @@
+.input-label {
+  color: #6a6b6d;
+  font-size: 15px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.input-required {
+  color: #b70037;
+}
+
+.input {
+  width: 100%;
+  caret-color: #b70037;
+  border: 1px solid #cbcfd6;
+  font-weight: 500;
+  padding: 27px;
+  border-radius: 2px;
+  font-size: 16px;
+}
+
+.input:hover {
+}

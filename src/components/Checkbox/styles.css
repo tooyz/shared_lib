@@ -1,0 +1,23 @@
+.checkbox-wrapper {
+  display: flex;
+}
+
+.checkbox-label {
+  color: #6a6b6d;
+  font-size: 15px;
+  font-weight: 400;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.checkbox {
+  caret-color: #b70037;
+  border: 1px solid #cbcfd6;
+  font-weight: 500;
+  padding: 27px;
+  border-radius: 2px;
+  font-size: 16px;
+}
+
+.checkbox:hover {
+}

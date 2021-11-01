@@ -1,0 +1,13 @@
+.link {
+  font-family: 'SuisseIntl', sans-serif;
+  text-decoration: none;
+  color: #505254;
+  transition: all 0.25s ease;
+  display: flex;
+  align-items: center;
+}
+
+.link:hover {
+  cursor: pointer;
+  color: #b70037;
+}
